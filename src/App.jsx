@@ -22,10 +22,10 @@ function App() {
 
       <img 
         className='invisible xl:visible absolute top-0 left-0 h-screen'
-        src='./src/assets/bg-main-desktop.png'/>
+        src='/bg-main-desktop.png'/>
 
       <img 
-        src="./src/assets/bg-main-mobile.png"
+        src="/bg-main-mobile.png"
         className='xl:invisible absolute top-0 left-0 min-w-full max-h-[300px]' />
 
 
