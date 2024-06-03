@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'space';
+    src: local("SpaceGrotesk"),
+    url('./src/assets/SpaceGrotesk.tff') format("trueType");
+}
