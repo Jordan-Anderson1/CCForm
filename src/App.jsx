@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import CardFront from './CardFront'
-import CardBack from './CardBack'
+import CardFront from '/CardFront'
+import CardBack from '/CardBack'
 import Form from './Form'
-import Thankyou from './Thankyou'
+import Thankyou from '/Thankyou'
 import './App.css'
 
 
